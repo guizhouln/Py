@@ -1,0 +1,1 @@
+def say_hi():    print('hi, this is moudule speaking.')__version__ = '0.1'
